@@ -1,0 +1,1 @@
+This is my first ever react project I built using the skills I have learned over the last 2 months. It is a replica of the RAWG (https://rawg.io/) game discovery platform, complete with search features as well as light/dark modes.
